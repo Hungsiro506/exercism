@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world-build.iml" filepath="$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/leap/.idea/modules/leap.iml" filepath="$PROJECT_DIR$/scala/leap/.idea/modules/leap.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/leap/.idea/modules/leap-build.iml" filepath="$PROJECT_DIR$/scala/leap/.idea/modules/leap-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/space-age/.idea/modules/space-age.iml" filepath="$PROJECT_DIR$/scala/space-age/.idea/modules/space-age.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/space-age/.idea/modules/space-age-build.iml" filepath="$PROJECT_DIR$/scala/space-age/.idea/modules/space-age-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples.iml" filepath="$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples-build.iml" filepath="$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples-build.iml" />
     </modules>

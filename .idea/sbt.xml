@@ -22,6 +22,18 @@
         <option name="useOurOwnAutoImport" value="true" />
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/scala/space-age" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/scala/space-age" />
+            <option value="$PROJECT_DIR$/scala/space-age/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.0.3" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/scala/sum-of-multiples" />
         <option name="modules">
           <set>
