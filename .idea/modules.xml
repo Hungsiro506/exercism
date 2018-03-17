@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/exercism.iml" filepath="$PROJECT_DIR$/.idea/exercism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world.iml" filepath="$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world-build.iml" filepath="$PROJECT_DIR$/scala/hello-world/.idea/modules/hello-world-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/leap/.idea/modules/leap.iml" filepath="$PROJECT_DIR$/scala/leap/.idea/modules/leap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/leap/.idea/modules/leap-build.iml" filepath="$PROJECT_DIR$/scala/leap/.idea/modules/leap-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples.iml" filepath="$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples-build.iml" filepath="$PROJECT_DIR$/scala/sum-of-multiples/.idea/modules/sum-of-multiples-build.iml" />
     </modules>
   </component>
 </project>
