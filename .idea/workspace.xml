@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ff6415-abf3-4c90-85b7-d22eeb5534c5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/scala/leap/.idea/modules/leap-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scala/leap/.idea/modules/leap.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/exercism.iml" afterPath="$PROJECT_DIR$/.idea/exercism.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/scala/sum-of-multiples/build.sbt" afterPath="$PROJECT_DIR$/scala/sum-of-multiples/build.sbt" />
-      <change beforePath="$PROJECT_DIR$/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala" afterPath="$PROJECT_DIR$/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala" />
-      <change beforePath="$PROJECT_DIR$/scala/sum-of-multiples/src/test/scala/SumOfMultiplesTest.scala" afterPath="$PROJECT_DIR$/scala/sum-of-multiples/src/test/scala/SumOfMultiplesTest.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/scala/sum-of-multiples/target/" />
     <ignored path="$PROJECT_DIR$/scala/sum-of-multiples/project/project/target/" />
@@ -88,8 +78,8 @@
           <file leaf-file-name="Leap.scala" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scala/leap/src/main/scala/Leap.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+                <state relative-caret-position="225">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -575,6 +565,14 @@
       <option name="presentableId" value="Default" />
       <updated>1521100965367</updated>
     </task>
+    <task id="LOCAL-00001" summary="pass all test case Leap">
+      <created>1521273210231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521273210232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -590,20 +588,20 @@
     <history-entry file="LeapTest - 2018.03.17 at 14h 51m 56s.xml">
       <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="LeapTest - 2018.03.17 at 14h 55m 07s.xml">
+      <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LeapTest - 2018.03.17 at 14h 57m 22s.xml">
+      <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LeapTest - 2018.03.17 at 15h 04m 21s.xml">
+      <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
     <history-entry file="LeapTest_year_divisible_by_4,_not_divisible_by_100__leap_year - 2018.03.17 at 09h 34m 52s.xml">
       <configuration name="LeapTest.year divisible by 4, not divisible by 100: leap year" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="LeapTest_year_not_divisible_by_4__common_year - 2018.03.17 at 09h 32m 50s.xml">
       <configuration name="LeapTest.year not divisible by 4: common year" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="SumOfMultiplesTest_multiples_of_3_or_5_up_to_1 - 2018.03.15 at 22h 15m 14s.xml">
-      <configuration name="SumOfMultiplesTest.multiples of 3 or 5 up to 1" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="SumOfMultiplesTest_multiples_of_3_or_5_up_to_4 - 2018.03.15 at 22h 20m 01s.xml">
-      <configuration name="SumOfMultiplesTest.multiples of 3 or 5 up to 4" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="SumOfMultiplesTest_multiples_of_3_up_to_7 - 2018.03.15 at 22h 15m 43s.xml">
-      <configuration name="SumOfMultiplesTest.multiples of 3 up to 7" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="SumOfMultiplesTest_multiples_of_3_up_to_7 - 2018.03.15 at 22h 19m 43s.xml">
       <configuration name="SumOfMultiplesTest.multiples of 3 up to 7" configurationId="ScalaTestRunConfiguration" />
@@ -622,7 +620,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42824858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42824858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -646,6 +644,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pass all test case Leap" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass all test case Leap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -772,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scala/leap/src/main/scala/Leap.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
