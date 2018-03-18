@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ff6415-abf3-4c90-85b7-d22eeb5534c5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala" afterPath="$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala" />
-      <change beforePath="$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala" afterPath="$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scala/flatten-array/src/main/scala/FlattenArray.scala" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/scala/sum-of-multiples/target/" />
     <ignored path="$PROJECT_DIR$/scala/sum-of-multiples/project/project/target/" />
@@ -20,6 +23,9 @@
     <ignored path="$PROJECT_DIR$/scala/accumulate/target/" />
     <ignored path="$PROJECT_DIR$/scala/accumulate/project/project/target/" />
     <ignored path="$PROJECT_DIR$/scala/accumulate/project/target/" />
+    <ignored path="$PROJECT_DIR$/scala/flatten-array/target/" />
+    <ignored path="$PROJECT_DIR$/scala/flatten-array/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/scala/flatten-array/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +35,9 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/scala/accumulate">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/scala/flatten-array">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/scala/hello-world">
@@ -69,7 +78,7 @@
             <entry file="file://$PROJECT_DIR$/scala/space-age/src/main/scala/SpaceAge.scala">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="225">
-                  <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+                  <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
                   <folding />
                 </state>
               </provider>
@@ -88,11 +97,31 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Accumulate.scala" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Accumulate.scala" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala">
               <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FlattenArray.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/scala/flatten-array/src/main/scala/FlattenArray.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scala/flatten-array/build.sbt">
+              <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="45">
-                  <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -122,11 +151,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="AccumulateTest.scala" pinned="false" current-in-tab="true">
+          <file leaf-file-name="AccumulateTest.scala" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="332">
-                  <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+                <state relative-caret-position="555">
+                  <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FlattenArrayTest.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/scala/flatten-array/src/test/scala/FlattenArrayTest.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="22">
+                  <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -160,6 +199,9 @@
         <option value="$PROJECT_DIR$/scala/accumulate/build.sbt" />
         <option value="$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala" />
         <option value="$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala" />
+        <option value="$PROJECT_DIR$/scala/flatten-array/build.sbt" />
+        <option value="$PROJECT_DIR$/scala/flatten-array/src/test/scala/FlattenArrayTest.scala" />
+        <option value="$PROJECT_DIR$/scala/flatten-array/src/main/scala/FlattenArray.scala" />
       </list>
     </option>
   </component>
@@ -169,7 +211,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="30" />
     <option name="y" value="24" />
     <option name="width" value="1680" />
@@ -192,8 +234,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +269,20 @@
               <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercism" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="accumulate" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercism" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercism" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -236,7 +290,7 @@
               <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercism" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="accumulate" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -245,7 +299,7 @@
               <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercism" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="accumulate" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -253,16 +307,24 @@
               <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercism" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="accumulate" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercism" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="flatten-array" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.SpaceAgeTest">
+  <component name="RunManager" selected="ScalaTest.FlattenArrayTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -332,6 +394,21 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="FlattenArrayTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="flatten-array" />
+      <setting name="path" value="FlattenArrayTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="FlattenArrayTest" />
     </configuration>
     <configuration name="LeapTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -395,21 +472,6 @@
       <setting name="testKind" value="Class" />
       <setting name="path" value="SpaceAgeTest" />
     </configuration>
-    <configuration name="SumOfMultiplesTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="sum-of-multiples" />
-      <setting name="path" value="SumOfMultiplesTest" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="showProgressMessages" value="true" />
-      <setting name="useSbt" value="false" />
-      <setting name="useUiWithSbt" value="false" />
-      <envs />
-      <setting name="testKind" value="Class" />
-      <setting name="path" value="SumOfMultiplesTest" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -444,24 +506,24 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.SumOfMultiplesTest" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year not divisible by 4: common year" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LeapTest" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year divisible by 4, not divisible by 100: leap year" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.SpaceAgeTest" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year not divisible by 4: common year" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.LeapTest" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year divisible by 4, not divisible by 100: leap year" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.SpaceAgeTest" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.FlattenArrayTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.SpaceAgeTest" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.LeapTest" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year divisible by 4, not divisible by 100: leap year" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year not divisible by 4: common year" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.SumOfMultiplesTest" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.FlattenArrayTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.SpaceAgeTest" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.LeapTest" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year divisible by 4, not divisible by 100: leap year" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.LeapTest.year not divisible by 4: common year" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1521342198798" />
+    <option name="lastUpdateTimestamp" value="1521342798789" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -480,6 +542,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="accumulate-build" />
                 <option name="path" value="$PROJECT_DIR$/scala/accumulate/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="flatten-array" />
+              <option name="path" value="$PROJECT_DIR$/scala/flatten-array" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="flatten-array" />
+                <option name="path" value="$PROJECT_DIR$/scala/flatten-array" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="flatten-array-build" />
+                <option name="path" value="$PROJECT_DIR$/scala/flatten-array/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -572,6 +654,7 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/scala/accumulate" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/scala/flatten-array" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/scala/hello-world" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/scala/leap" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/scala/space-age" value="RE_IMPORT" />
@@ -620,11 +703,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeapTest - 2018.03.17 at 14h 57m 22s.xml">
-      <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FlattenArrayTest - 2018.03.18 at 15h 56m 13s.xml">
+      <configuration name="FlattenArrayTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="LeapTest - 2018.03.17 at 15h 04m 21s.xml">
-      <configuration name="LeapTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="FlattenArrayTest - 2018.03.18 at 15h 57m 38s.xml">
+      <configuration name="FlattenArrayTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="SpaceAgeTest - 2018.03.17 at 15h 59m 55s.xml">
       <configuration name="SpaceAgeTest" configurationId="ScalaTestRunConfiguration" />
@@ -652,7 +735,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="24" width="1680" height="980" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="980" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -664,14 +747,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42824858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42824858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18803419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1898657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -682,6 +764,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -700,6 +783,65 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scala/space-age/src/main/scala/SpaceAge.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/space-age/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/flatten-array/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/space-age/src/test/scala/SpaceAgeTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/accumulate/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scala/space-age/src/main/scala/SpaceAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -856,14 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scala/space-age/src/test/scala/SpaceAgeTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scala/accumulate/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -872,26 +1006,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scala/flatten-array/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scala/space-age/src/main/scala/SpaceAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/space-age/src/test/scala/SpaceAgeTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scala/accumulate/src/test/scala/AccumulateTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        <state relative-caret-position="555">
+          <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scala/accumulate/src/main/scala/Accumulate.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/flatten-array/src/main/scala/FlattenArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala/flatten-array/src/test/scala/FlattenArrayTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
